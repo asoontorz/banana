@@ -1,1 +1,2 @@
-primt('Menu')
+print('Menu')
+print('add')
